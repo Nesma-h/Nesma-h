@@ -59,9 +59,10 @@
 
 ## 📬 Let’s Connect
 
-- 💻 GitHub: [Nesma‑h](https://github.com/Nesma-h)  
-- 💼 LinkedIn: [Nesma Hesham](https://www.linkedin.com/in/nesmaa-heesham)  
-- 📧 Email: [nesma@ahh1@gmail.com](mailto:nesma@ahh1@gmail.com)
+- 💻 GitHub: [Nesma‑h](https://github.com/Nesma‑h)  
+- 💼 LinkedIn: [Nesma Hesham](https://www.linkedin.com/in/nesmaa‑heesham)  
+- 🧠 Codeforces: [N_esma](https://codeforces.com/profile/N_esma)  
+- 📧 Email: [nesma@ahh1@gmail.com](mailto:nesma@ahh1@gmail.com)  
 
 ---
 
