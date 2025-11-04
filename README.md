@@ -3,6 +3,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
+
+---
+
 ## 👩‍💻 About Me
 
 🎓 3rd‑year student at **Benha Faculty of Computers and Artificial Intelligence (2023–2027)**  
@@ -53,13 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
-
----
 
 ## 🌐 Languages
 
