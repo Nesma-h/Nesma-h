@@ -6,11 +6,11 @@
 ## 👩‍💻 About Me
 
 🎓 3rd‑year student at **Benha Faculty of Computers and Artificial Intelligence (2023–2027)**  
-💡 Passionate about **Software Engineering**, **Front-End** **Development**, and continuously expanding my skill set  
+💡 Passionate about **Software Engineering**, **Front-End Development**, and continuously expanding my skill set  
 📊 Interested in **Web Development**, **Data Analysis & Visualization**  
-🌱 Currently improving skills in `C++`, `Python`, `Java`, `OOP` , `Problem Solving`,`Algoritms`, `SQL`, `HTML5`, `CSS3`, and `MIPS Assembly`  
+🌱 Currently improving skills in `C++`, `Python`, `Java`, `OOP`, `Problem Solving`, `Algorithms`, `SQL`, `HTML5`, `CSS3`, and `MIPS Assembly`  
 🧠 Competitive Programmer with strong problem-solving skills, creative mindset & solid foundation in algorithms  
-🤝  **URI Member** – *Public Relations Committee*: promoting events and strengthening our tech community  
+🤝 **URI Member** – *Public Relations Committee*: promoting events and strengthening our tech community  
 💼 Excellent in communication, teamwork, and time‑management  
 
 ---
@@ -40,12 +40,24 @@
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠️ Skills
 
-**💻 Programming Languages**  
-`C++` · `Python` · `Java` · `HTML5` · `CSS3` · `SQL` · `MIPS Assembly` 
+### Programming Languages:
+**C++** · **Python** · **Java** · **HTML5** · **CSS3** · **SQL** · **MIPS Assembly**
 
+### Technologies & Tools:
+**Git** · **GitHub** · **VS Code** · **Power BI** · **Pandas** · **NumPy**
 
+### Competitive Programming:
+**Codeforces** · **ICPC** · **ECPC**
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
 
 ---
 
@@ -57,12 +69,12 @@
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
-- 💻 GitHub: [Nesma‑h](https://github.com/Nesma‑h)  
-- 💼 LinkedIn: [Nesma Hesham](https://www.linkedin.com/in/nesmaa‑heesham)  
-- 🧠 Codeforces: [N_esma](https://codeforces.com/profile/N_esma)  
-- 📧 Email: [nesma@ahh1@gmail.com](mailto:nesma@ahh1@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Nesma--h-181717?style=flat&logo=github)](https://github.com/Nesma-h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nesma_Hesham-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nesmaa-heesham)
+[![Codeforces](https://img.shields.io/badge/Codeforces-N__esma-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/N_esma)
+[![Email](https://img.shields.io/badge/Email-nesma@ahh1@gmail.com-D14836?style=flat&logo=gmail)](mailto:nesma@ahh1@gmail.com)
 
 ---
 
