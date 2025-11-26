@@ -65,11 +65,15 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&hide_border=true&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nesma-h&theme=radical)
+
+![GitHub Followers](https://img.shields.io/github/followers/Nesma-h?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nesma-h&color=blue)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
 
 
 
