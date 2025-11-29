@@ -69,10 +69,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nesma-h&theme=radical)
 
-![GitHub Followers](https://img.shields.io/github/followers/Nesma-h?style=social)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nesma-h&color=blue)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesma-h&layout=compact&theme=radical)
 
 
