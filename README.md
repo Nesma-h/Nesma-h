@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Nesma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Nesma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesma-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nesma-h&theme=radical&hide_border=true)
 
